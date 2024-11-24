@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+#colorBtn {
+    margin-top: 20px;
+    padding: 15px 30px;
+    color: #fff;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    cursor: pointer;
+}
